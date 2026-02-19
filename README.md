@@ -68,13 +68,13 @@ On peut compter de 18 à 24 mois pour atteindre le point d'équilibre, en foncti
 
 On a les alternatives suivantes à Proxmox:
 
-- **OpenStack**
+- [**OpenStack**](https://www.openstack.org)
   - Avantages: Très puissant, supporte une grande variété de fonctionnalités, très utilisé dans les environnements de cloud privé.
   - Inconvénients: Complexe à installer et à gérer, nécessite des ressources importantes pour fonctionner correctement.
-- **Apache CloudStack**
+- [**Apache CloudStack**](https://cloudstack.apache.org)
   - Avantages: Plus simple à installer et à gérer que OpenStack.
   - Inconvénients: Moins de fonctionnalités que OpenStack, plus petite communauté.
-- **OpenNebula**
+- [**OpenNebula**](https://opennebula.io)
   - Avantages: Facile à installer et à gérer, léger, supporte une variété de fonctionnalités.
   - Inconvénients: Écosystème plus petit.
 
