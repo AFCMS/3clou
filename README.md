@@ -31,7 +31,7 @@ TODO
 
 On se baserais sur plusieurs serveurs dédiés OVH avec Proxmox installé pour gérer les VMs.
 
-On peut se baser sur l'offre (`ADVANCE-4`)[https://www.ovhcloud.com/fr/bare-metal/advance/adv-4] qui offre 32 vCPU et 64Gb de RAM pour 200€ par mois (installation gratuite à ce jour).
+On peut se baser sur l'offre [`ADVANCE-4`](https://www.ovhcloud.com/fr/bare-metal/advance/adv-4) qui offre 32 vCPU et 64Gb de RAM pour 200€ par mois (installation gratuite à ce jour).
 
 Pour 160 vCPU et 200 Go de RAM, on aurait besoin de 5 serveurs (160 vCPU / 32 vCPU par serveur = 5 serveurs) et (200 Go RAM / 64 Go RAM par serveur = 3.125 serveurs, arrondi à 4 serveurs).
 
